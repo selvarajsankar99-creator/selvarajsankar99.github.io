@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Selvaraj S | Portfolio & Photography</title>
+</head>
+<body>
+
+    <!-- Header Section -->
+    <header>
+        <h1>Selvaraj S</h1>
+        <p>Welcome to my digital space showcasing my professional network administration work and creative photography.</p>
+    </header>
+
+    <hr>
+
+    <!-- Professional Work Section -->
+    <section>
+        <h2>My Work</h2>
+        <p>Highlighting my experience in IT infrastructure and government service operations.</p>
+        <ul>
+            <li><strong>Network Administration:</strong> Hardware configuration, VLAN management, and switch CLI commands.</li>
+            <li><strong>Infrastructure Mapping:</strong> Utilizing Network Monitoring Systems (NMS) and topology mapping.</li>
+            <li><strong>Current Goals:</strong> Expanding expertise into Artificial Intelligence and advanced computer applications.</li>
+        </ul>
+    </section>
+
+    <hr>
+
+    <!-- Photography Section -->
+    <section>
+        <h2>Photography & Visual Arts</h2>
+        <p>A curated gallery of my visual projects, from real-world captures to digital restoration.</p>
+        <ul>
+            <li><strong>Portraiture:</strong> High-resolution, photorealistic portraits maintaining 100% original facial fidelity.</li>
+            <li><strong>Cinematic Captures:</strong> Distinctive lighting and composition styles.</li>
+            <li><strong>Photo Restoration:</strong> Bringing old, faded, or damaged photographs back to life.</li>
+            <li><strong>Event Photography:</strong> Documenting outdoor activities and scouting camps.</li>
+        </ul>
+        
+        <!-- You can add your images here later using the <img> tag -->
+        <!-- Example: <img src="my-photo.jpg" alt="A cinematic portrait" width="400"> -->
+    </section>
+
+    <hr>
+
+    <!-- Footer Section -->
+    <footer>
+        <p>Connect with me on GitHub!</p>
+    </footer>
+
+</body>
+</html>
